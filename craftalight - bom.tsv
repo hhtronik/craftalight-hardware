@@ -1,0 +1,34 @@
+Reference	Component	Package	Value	Notes
+SW1	ALPS SKSNLAE010			Tactile switch side mid mount (alternatively Panasonic EVPAEDB2A
+C1	MLCC 0805 10uF X7R 	0805	10uF 16V	
+C2	MLCC 0402 1uF X7R	0402	1uF 6.3V	
+C3	MLCC 0402 1uF X7R	0402	1uF 6.3V	
+C4	MLCC 0402 100nF X7R	0402	100nF 25V	Optional for alternative LDO with HF bypass
+C6	MLCC 0805 10uF X7R 	0805	10uF 16V	
+C7	MLCC 0402 100nF X7R	0402	100nF 25V	
+C8	MLCC 0402 1uF X7R	0402	1uF 6.3V	
+C9	MLCC 0402 100nF X7R	0402	100nF 25V	
+C11	MLCC 0402 1uF X7R	0402	1uF 6.3V	
+C12	MLCC 0402 100nF X7R	0402	100nF 25V	
+Q1	Diodes Inc. DMG1012UW-7	SOT-323	1A 20V N-mos	
+Q2	Diodes Inc. DMG1012UW-7	SOT-323	1A 20V N-mos	
+LED1	5630 Warm white (3200K) LED	5630	Vf=2.5V Imax=150mA CRI=85	ex. OSRAM DURISE5. 5730 package fits footprint
+LED2	5630 Warm white (3200K) LED	5630	Vf=2.5V Imax=150mA CRI=85	ex. OSRAM DURISE5. 5730 package fits footprint
+FS1	Bourns MF-NSMF150 PTC fuse	1206	Umax=6V Ihold=1.5A	
+U1	Microchip MIC5365-3.0YC5 LDO	SOT-323	Uout=3.0V Imax=150mA	
+U2	ST STM8S003F3U6TR	UFQFPN20	8bit STM8 Microcontroller, 16MHz, 8 kB Flash	
+U3	Silicon Labs Si7201-B-05-IV Hall effect switch	SOT23-3		Alternatively GoChip Elec Tech GH1248ESW (higher sensitivity and no tamper detection mode)
+J1	Mid-mount micro USB socket			XKB Enterprise U253-051T-4BH87
+R1	Resistor 18R 1% 0603	0603	18 Ohms and >= 1/4W dissipation	ex. Panasonic ERJPA3F18R0V
+R2	Resistor 10K 5% 0402	0402		
+R3	Resistor 18R 1% 0603	0603	18 Ohms and >= 1/4W dissipation	ex. Panasonic ERJPA3F18R0V
+R4	Resistor 50R 1% 0603	0603		ex. Bourns CR0603-FX-49R9ELF
+R5	Resistor 1M 1% 0402	0402		
+R6	Resistor 1M 1% 0402	0402		
+R7	Resistor 1M 1% 0402	0402		
+SO1	Würth WA-SMSI 9774015243R 1.5mm Steel standoff M2 
+SO2 Würth WA-SMSI 9774015243R 1.5mm Steel standoff M2
+MS1 Bossard BN1435 M2x6mm Phillips screw
+MS2 Bossard BN1435 M2x6mm Phillips screw
+G1 	EPDM gasket			2mm EPDM sheet
+CO1	Acrylic glass, satin			Material: Plexiglas(r) Satinice(r) 3mm
